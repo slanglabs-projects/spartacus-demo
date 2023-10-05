@@ -25,7 +25,7 @@
     "@ngrx/effects": "^15.3.0",
     "@ngrx/router-store": "^15.3.0",
     "@ngrx/store": "^15.3.0",
-    "@slanglabs/slang-retail-assistant": "^8.6.4-alpha",
+    "@slanglabs/slang-retail-assistant": "^8.6.5-alpha",
     "@spartacus/asm": "~6.0.3",
     "@spartacus/assets": "~6.0.3",
     "@spartacus/cart": "~6.0.3",
